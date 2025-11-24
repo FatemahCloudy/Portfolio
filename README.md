@@ -1,2 +1,0 @@
-# Portfolio
-Made with React
